@@ -1,0 +1,20 @@
+{
+  "name": "api-backlog",
+  "version": "1.0.0",
+  "description": "Sistema de backlog para filmes ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backlogs"
+  ],
+  "author": "Daiane Rocha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mysql2": "^3.10.2",
+    "sequelize": "^6.37.3"
+  }
+}
